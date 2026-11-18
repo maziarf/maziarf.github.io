@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th year PhD student at the Department of Mathematics, University of Toronto. I work on mathematical physics under the supervision of [Prof. Marco Gualtieri](https://www.math.toronto.edu/mgualt/). 
+I'm a 7th year PhD student at the Department of Mathematics, University of Toronto. I work on mathematical physics under the supervision of [Prof. Marco Gualtieri](https://www.math.toronto.edu/mgualt/). 
 
 You can find [my CV here](https://maziarf.github.io/files/My_CV.pdf). 
 
